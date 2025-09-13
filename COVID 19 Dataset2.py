@@ -6,7 +6,7 @@ yyyy-mm-dd without importing any modules.
 """
 
 # Define dataset as "date_range"
-date_range = range(20200122, 20201206)
+date_range = range(20200122, 20201207)
 
 
 def yyyymmdd_to_iso(value):
@@ -30,3 +30,4 @@ end_date = yyyymmdd_to_iso(end_date_int)
 
 print("Start date:", start_date)
 print("End date:", end_date)
+

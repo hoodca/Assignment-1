@@ -2,20 +2,20 @@ Date Range Tracker
 
 Purpose
 
-This script tracks a date range represented by integer dates in `yyyymmdd` format and prints the start and end dates in human-readable ISO format (`yyyy-mm-dd`).
+This script tracks a date range represented by integer dates in yyyymmdd format and prints the start and end dates in human-readable ISO format (yyyy-mm-dd).
 
 Input
 
-* A range of dates represented as integers in `yyyymmdd` format (e.g., `20200122` to `20201207`).
+* A range of dates represented as integers in yyyymmdd format (e.g., 20200122 to 20201207).
 
 Expected Output
 
 * The earliest and latest dates from the input range printed in ISO date format:
 
-  ```
+  
   Start date: 2020-01-22
   End date: 2020-12-07
-  ```
+  
 
 Type of Execution
 
